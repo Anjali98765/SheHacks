@@ -1,4 +1,6 @@
 # SheHacks
+# BoxBrains
+# Project Title-W 08 Smart Dustbins
 Effective waste management begins with efficient waste segregation. With the development of the human race, waste generation has increased at an alarming rate. If steps won't be taken now, the health and living conditions will start deteriorating. Our solution will help in reducing the impact of careless waste segregation and also give our clients some perks which will further motivate them to use our system for the betterment of our environment. A monitor attached to the smart dustbin will input basic information about the customer and type of waste, and develop a QR code which customers can scan through their Dustbin 2.0 app to get reward points which they can redeem on other e-commerce platforms.
 
 This is the track which we implemented to the solution:-
